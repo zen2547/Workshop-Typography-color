@@ -1,0 +1,26 @@
+* {
+  margin: 48px;
+  background-color: hsl(220, 14%, 96%);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.quote {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 32 40 px;
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+}
+.blockquote {
+  margin: 0 0 16px;
+  font-size: 24px;
+  line-height: 1.6;
+  color: hsl(220, 13%, 18%);
+}
+figurecaption {
+  font-size: 14px;
+  color: hsl(220, 9%, 46%);
+}
+.source {
+  color: hsl(217, 91%, 60%);
+  text-decoration: underline;
+}
